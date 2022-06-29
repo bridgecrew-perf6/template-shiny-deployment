@@ -1,6 +1,6 @@
 apiVersion: v2
 name: template-shiny-app
-version: 1.0.2
+version: latest
 dependencies:
   - name: shiny
     version: 0.16.0
